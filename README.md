@@ -39,7 +39,7 @@ cd HashReaper
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 ## 🔧 Usage
 
 ### Interactive Mode:
@@ -66,8 +66,26 @@ HashReaper/
 ├── sample.txt
 └── passwords.txt
 ```
+---
+
 ## 🛡️ Legal Disclaimer
 
-This tool is intended for educational and ethical purposes only.
+This tool is intended for **educational** and **ethical purposes** only.
 Unauthorized usage against systems you do not own or have permission to test is illegal and prohibited.
+
+---
+
+## 🙌 Author
+
+**Kasula Shiva**  
+🎓 B.Tech CSE (Cybersecurity)  
+🔗 GitHub: [shivakasula48](https://github.com/shivakasula48)  
+📧 Email: [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)
+
+---
+
+## 📜 License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
 
