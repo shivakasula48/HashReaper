@@ -39,3 +39,35 @@ cd HashReaper
 ```bash
 pip install -r requirements.txt
 ```
+
+## 🔧 Usage
+
+### Interactive Mode:
+```bash
+python hashreaper.py
+```
+### Command-Line Mode:
+```bash
+python hashreaper.py <target_hash> -t <hash_type> [-w wordlist.txt] [--min 1 --max 6] [-c charset] [--threads 4]
+```
+### Example:
+```bash
+python hashreaper.py 5f4dcc3b5aa765d61d8327deb882cf99 -t md5 -w wordlists/common.txt
+```
+---
+
+## 📁 Directory Structure
+```tree
+HashReaper/
+├── hashreaper.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── sample.txt
+└── passwords.txt
+```
+## 🛡️ Legal Disclaimer
+
+This tool is intended for educational and ethical purposes only.
+Unauthorized usage against systems you do not own or have permission to test is illegal and prohibited.
+
